@@ -1,0 +1,3 @@
+/home/arthur/CVars/examples/Demo2/CMakeFiles/rebuild_cache.dir
+/home/arthur/CVars/examples/Demo2/CMakeFiles/edit_cache.dir
+/home/arthur/CVars/examples/Demo2/CMakeFiles/GLConsoleDemo2.dir

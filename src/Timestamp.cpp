@@ -17,7 +17,7 @@
 #    include <windows.h>
 #endif
 
-#include <cvars/Timestamp.h>
+#include <cvars/timestamp.h>
 
 TimeStamp::TimeStamp()
 {

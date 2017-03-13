@@ -9,8 +9,8 @@
 #ifndef __TEXT_CONSOLE_H__
 #define __TEXT_CONSOLE_H__
 
-#include <CVars/CVar.h> 
-#include <CVars/Timestamp.h>
+#include <cvars/cvar.h> 
+#include <cvars/timestamp.h>
 
 #include <limits.h>
 #include <stdio.h>
