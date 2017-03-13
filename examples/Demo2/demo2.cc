@@ -3,14 +3,15 @@
 #include <math.h>
 #include <stdlib.h>
 
-#include <CVars/glplatform.h>
+#include <cvars/glplatform.h>
 #include <GLConsole/GLConsole.h>
 
-#include <CVars/CVarVectorIO.h>
-#include <CVars/CVarMapIO.h>
+#include <cvars/cvarvectorio.h>
+#include <cvars/cvarmapio.h>
 
 #include <vector>
 #include <map>
+#include <unistd.h>
 
 #include "Pyramid.h"
 

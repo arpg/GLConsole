@@ -1,4 +1,4 @@
-#include <cvars/CVar.h>
+#include <cvars/cvar.h>
 #include <memory>
 
 namespace CVarUtils

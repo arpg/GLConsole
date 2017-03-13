@@ -9,10 +9,11 @@
 #ifndef __GLCONSOLE_H__
 #define __GLCONSOLE_H__
 
-
-#include <CVars/CVar.h>
-#include <CVars/Timestamp.h>
-#include <CVars/glplatform.h>
+#include <cvars/cvar.h>
+#include <cvars/trie.h>
+#include <cvars/trienode.h>
+#include <cvars/timestamp.h>
+#include <cvars/glplatform.h>
 
 #include <GLConsole/GLFont.h>
 //#include <GLConsole/GLColor.h>
@@ -338,9 +339,10 @@ class GLConsole
 #include <algorithm>
 #include <cstring>
 
-#include <CVars/CVar.h>
-#include <CVars/TrieNode.h>
-
+#include <cvars/cvar.h>
+#include <cvars/trienode.h>
+#include <cvars/trie.h>
+#include <cvars/timestamp.h>
 
 /// Include a collection of useful "ConsoleFunc" functiions:
 #include <GLConsole/GLConsoleFunction.h>

@@ -8,8 +8,8 @@
  */
 
 
-#include "cvars/TrieNode.h"
-#include "cvars/CVar.h"
+#include "cvars/trienode.h"
+#include "cvars/cvar.h"
 
 ////////////////////////////////////////////////////////////////////////////////
 TrieNode::TrieNode() : m_pNodeData(0),

@@ -9,8 +9,8 @@
 #ifndef __FLCONSOLE_H__
 #define __FLCONSOLE_H__
 
-#include <CVars/CVar.h> 
-#include <CVars/Timestamp.h>
+#include <cvars/cvar.h> 
+#include <cvars/timestamp.h>
 
 //#include <GLConsole/CVarUtils::Color.h>
 

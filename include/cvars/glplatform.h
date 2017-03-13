@@ -71,4 +71,13 @@
     #endif
 #endif // HAVE_GLES
 
+#ifdef __unix__
+/* "Needs better header handling - this just assumes
+   glut/freeglut/openglut are present"
+*/
+#include <GL/gl.h>
+#include <GL/glu.h>
+#include <GL/glut.h>
+#endif
+
 #endif // CVARS_GLPLATFORM_H
