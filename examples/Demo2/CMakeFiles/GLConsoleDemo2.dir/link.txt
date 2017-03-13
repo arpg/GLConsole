@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/GLConsoleDemo2.dir/demo2.o CMakeFiles/GLConsoleDemo2.dir/Pyramid.o CMakeFiles/GLConsoleDemo2.dir/Point3D.o  -o GLConsoleDemo2  -L../../CVars  -L../../GLConsole -Wl,-rpath,../../CVars:../../GLConsole -rdynamic -lcvars -lglut -lXmu -lXi -lGLU -lGL -lGLU -lGL 

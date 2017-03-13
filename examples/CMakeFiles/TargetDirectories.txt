@@ -1,5 +1,0 @@
-/home/arthur/games/cvars/examples/CMakeFiles/rebuild_cache.dir
-/home/arthur/games/cvars/examples/CMakeFiles/edit_cache.dir
-/home/arthur/games/cvars/examples/GlutConsole/CMakeFiles/rebuild_cache.dir
-/home/arthur/games/cvars/examples/GlutConsole/CMakeFiles/edit_cache.dir
-/home/arthur/games/cvars/examples/GlutConsole/CMakeFiles/GlutConsoleDemo.dir
