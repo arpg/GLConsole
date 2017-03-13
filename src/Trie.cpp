@@ -10,9 +10,9 @@
 
 // Trie data structure implementation.
 
-#include "cvars/CVar.h"
-#include "cvars/Trie.h"
-#include "cvars/TrieNode.h"
+#include "cvars/cvar.h"
+#include "cvars/trie.h"
+#include "cvars/trienode.h"
 
 #include <tinyxml.h>
 #include <iostream>

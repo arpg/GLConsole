@@ -117,12 +117,12 @@ set( CVAR_SRCS
 
 set( CVAR_HDRS
     include/cvars/config.h
-    include/cvars/CVar.h
-    include/cvars/CVarVectorIO.h
-    include/cvars/CVarMapIO.h
-    include/cvars/Timestamp.h
-    include/cvars/Trie.h
-    include/cvars/TrieNode.h
+    include/cvars/cvar.h
+    include/cvars/cvarvectorio.h
+    include/cvars/cvarmapio.h
+    include/cvars/timestamp.h
+    include/cvars/trie.h
+    include/cvars/trienode.h
     include/cvars/glplatform.h
   )
 

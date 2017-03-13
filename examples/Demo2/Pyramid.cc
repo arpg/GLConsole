@@ -1,6 +1,6 @@
 
-#include <CVars/CVar.h>
-#include <CVars/glplatform.h>
+#include <cvars/cvar.h>
+#include <cvars/glplatform.h>
 #include "Pyramid.h"
 
 /**
