@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include <unistd.h>
 #include <cvars/glplatform.h>
 #include <GLConsole/GLConsole.h>
 
@@ -11,6 +10,10 @@
 
 #include <vector>
 #include <map>
+
+#ifdef __unix__
+#include <unistd.h> /* needed for usleep */
+#endif
 
 #include "Pyramid.h"
 
