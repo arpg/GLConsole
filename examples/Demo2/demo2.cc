@@ -2,12 +2,12 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
-#include <CVars/glplatform.h>
+#include <unistd.h>
+#include <cvars/glplatform.h>
 #include <GLConsole/GLConsole.h>
 
-#include <CVars/CVarVectorIO.h>
-#include <CVars/CVarMapIO.h>
+#include <cvars/CVarVectorIO.h>
+#include <cvars/CVarMapIO.h>
 
 #include <vector>
 #include <map>
